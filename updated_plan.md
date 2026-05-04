@@ -26,16 +26,12 @@ All graphics are plain Kilt Graphics rectangles (green platforms, blue player sq
 
 ## Remaining Tasks (due May 9)
 
-| Task | Priority |
-|------|----------|
-| Add restart on game over (press R or click) | High |
-| Add a start/title screen | Medium |
-| Replace blue square with a simple doodler sprite | Medium |
-| Add at least one platform variant (e.g., moving platform) | Medium |
-| Fill out README.md with screenshots, setup steps, limitations | High |
-| Record 5–10 min presentation video | High |
-| Write one-page presentation report | High |
+Add restart on game over (press R or click)
+Add a start/title screen
+Replace blue square with a simple "doodler" sprite
+Add at least one platform variant like a moving platform
+Full readme
 
 ## Responsibility
 
-Russell — all tasks (solo project)
+Russell — all tasks (solo project cause my groupmate withdrew)
